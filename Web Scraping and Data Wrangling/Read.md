@@ -6,7 +6,8 @@ Web scrap Falcon 9 launch records with `BeautifulSoup`: <br>
 - Extract a Falcon 9 launch records HTML table from Wikipedia,<br>
 - Parse the table and convert it into a Pandas data frame<br>
 
-And,
+And,<br>
+
 Data Wrangling:<br>
 Here, we perform some <u>Exploratory Data Analysis (EDA)</u> to find some patterns in the data and determine what would be the label
 for training supervised models. <br> 
