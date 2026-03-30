@@ -5,3 +5,9 @@ payload delivered,<br>
 launch specifications, <br>
 landing specifications, and <br>
 landing outcome.
+
+Objectives:<br>
+Here, we will make a get request to the SpaceX API.
+
+- Request to the SpaceX API
+- Clean the requested data
