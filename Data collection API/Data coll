@@ -1,0 +1,7 @@
+Here, weare working with SpaceX launch data that is gathered from an API, specifically the SpaceX REST API. 
+This API will give us data about launches, including information about:
+rocket used, 
+payload delivered, 
+launch specifications, 
+landing specifications, and 
+landing outcome.
